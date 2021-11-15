@@ -29,6 +29,7 @@ Los miles de ohms se expresan en kilohms (kΩ), y los millones de ohms se expres
 
 Los miliamperes (mA) y microamperes (μA) se usan al momento de realizar el calculo del voltaje, asi cuando se multiplican con el valor de la resistencia en ohms (Ω) se obtienen los milivolts (mV) y los micrvolts (μV). Por otro lado si se multiplica los miliamperes (mA) con kilohms (kΩ) nos da como resultado los volts (V) y finalmente al mutiplicar los microamperes (μA) con los megohms (MΩ) obtenemos de igual forma los volts (V).
 
+#### CAPÍTULO 4 - Energía y Potencia
 * Resistencia
 
 Para el cálculo de la resistencia se usan los intervalos de miliamperes (mA) y microamperes (μA).
