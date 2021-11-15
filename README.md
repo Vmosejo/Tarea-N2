@@ -15,7 +15,21 @@ Analizar todos los contenidos presentes en los capítulos tres y cuatro del text
 Antes de empezar con el estudio de este capítulo es necesario recapitular temas anteriormente tratados ya que la ley de Ohm describe matemáticamente la relación entre voltaje, corriente y resistencia en un circuito. 
 ![4_MC](https://user-images.githubusercontent.com/93666408/140944564-f14ee70b-7987-4f70-ab31-3ba2dfa752d5.jpeg)
 ![ohm](https://user-images.githubusercontent.com/93681159/141723712-80a1f328-2347-4696-b0da-da0f7b48ff51.jpeg)
+Dada la ecuacion de la Ley de Ohm es importante identificar que para un valor constante de R, si el valor de V se incrementa, el valor de I se incrementa; si V disminuye, I disminuye. Si V se mantiene constante y R se incrementa, I disminuye. Asimismo, si V se mantiene constante y R disminuye, I se incrementa.
 
+La ecuación establecida de la Ley de Ohm puede ser manipulada dependiendo de las necesidades del ejercicio, debido a que no siempre se conocerá los valores del voltaje o la resistencia. Es por esto que se puede obtener una expresión para cada uno. 
+![Cálculos](https://user-images.githubusercontent.com/93681159/141815108-1eb55eee-c582-4673-adf3-52b860297c11.jpeg)
+
+Es importante reconocer las unidades y prefijos métricos que se usan para cada uno de estos casos:
+* Corriente
+
+Los miles de ohms se expresan en kilohms (kΩ), y los millones de ohms se expresan en megohms (MΩ). Asi para realizar el cálculo de la corriente, dividimos Volts (V) entre kilohms (kΩ) dan como resultado miliamperes (mA). Por otro lado, si dividimos Volts (V) entre megaohms (MΩ) dan como resultado microamperes (μA).
+
+* Voltaje
+
+
+
+* Resistencia
 ## 4. VIDEO
 Enlace video subido a youtube:
 
