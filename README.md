@@ -1,4 +1,4 @@
-# Tarea-N2
+# Tarea_N2
 ## 1. OBJETIVOS
 
    1.1 General
