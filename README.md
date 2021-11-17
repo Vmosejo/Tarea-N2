@@ -37,7 +37,7 @@ Para el cálculo de la resistencia se usan los intervalos de miliamperes (mA) y 
 ![Energia y potencia](https://user-images.githubusercontent.com/93681159/142125274-672418e5-64b3-4b83-a693-8e0364fd1678.jpg)
 ![Potencias](https://user-images.githubusercontent.com/93681159/142136338-618023f9-f82e-44b3-9c7b-ead39f0345e3.jpeg)
 ####  Conversión de energía y caída de voltaje en una resistencia
-Cuando la corriente circula por una resistencia se produce un cambio en la energia electrica, la cual se convienrte en energía calorifica, provocada por las colisiones de los electrones libres dentre de la estructura atómica del material resistivo, cuando esto ocurre dentro de un circuito los electrones ceden algo de su energia en forma de calor conforme se mueven dentro del mismo. Esta disminución del voltaje a través del resistor provocada por una pérdida de energía se llama
+Cuando la corriente circula por una resistencia se produce un cambio en la energía eléctrica, la cual se convierte en energía calorífica, provocada por las colisiones de los electrones libres dentro de la estructura atómica del material resistivo, cuando esto ocurre dentro de un circuito los electrones ceden algo de su energía en forma de calor conforme se mueven dentro del mismo. Esta disminución del voltaje a través del resistor provocada por una pérdida de energía se llama
 caída de voltaje, se indica mediante los signos + y  -.
 
 ![image](https://user-images.githubusercontent.com/93681159/142206336-5f3aa3b0-6fba-4e7d-9685-88741e19401d.png)
