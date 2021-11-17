@@ -18,6 +18,7 @@ Antes de empezar con el estudio de este capítulo es necesario recapitular temas
 Dada la ecuacion de la Ley de Ohm es importante identificar que para un valor constante de R, si el valor de V se incrementa, el valor de I se incrementa; si V disminuye, I disminuye. Si V se mantiene constante y R se incrementa, I disminuye. Asimismo, si V se mantiene constante y R disminuye, I se incrementa.
 
 La ecuación establecida de la Ley de Ohm puede ser manipulada dependiendo de las necesidades del ejercicio, debido a que no siempre se conocerá los valores del voltaje o la resistencia. Es por esto que se puede obtener una expresión para cada uno. 
+
 ![Cálculos](https://user-images.githubusercontent.com/93681159/141815108-1eb55eee-c582-4673-adf3-52b860297c11.jpeg)
 
 Es importante reconocer las unidades y prefijos métricos que se usan para cada uno de estos casos:
@@ -42,6 +43,9 @@ caída de voltaje, se indica mediante los signos + y  -.
 
 ![image](https://user-images.githubusercontent.com/93681159/142206336-5f3aa3b0-6fba-4e7d-9685-88741e19401d.png)
 
+#### Fuentes de potencia
+
+![Fuentes](https://user-images.githubusercontent.com/93681159/142214315-0f004ee3-0ae8-4c1d-b0a1-b4fe03f07461.jpeg)
 
 ## 4. VIDEO
 Enlace video subido a youtube:
