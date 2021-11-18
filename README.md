@@ -50,10 +50,15 @@ caída de voltaje, se indica mediante los signos + y  -.
 
 ## 3. EJERCICIOS
 ![IMAGEN 1](https://user-images.githubusercontent.com/93893919/142353244-1a9e5217-5f03-4782-b9f9-dc973b79425b.png)
+
 ![IMAGEN 2](https://user-images.githubusercontent.com/93893919/142353245-85b850ec-598e-4854-8076-1c4e7dd9991e.png)
+
 ![IMAGEN 3](https://user-images.githubusercontent.com/93893919/142353246-e0ffde0e-aa91-490c-9373-ba46f65da167.png)
+
 ![IMAGEN 4](https://user-images.githubusercontent.com/93893919/142353249-950e1989-635d-46f9-96d0-1b7055fc792f.png)
+
 ![IMAGEN 5](https://user-images.githubusercontent.com/93893919/142353335-2e57d8a0-c935-45e0-883a-04d619c8550b.png)
+
 ![1 1](https://user-images.githubusercontent.com/93666408/142358359-e35344c0-cd28-415e-ac48-3f70929238fa.PNG)
 ![1 2](https://user-images.githubusercontent.com/93666408/142358371-380e24d7-819b-465b-b3b0-6f43685b7963.PNG)
 ![1 3](https://user-images.githubusercontent.com/93666408/142358392-ff16b1c9-c249-4c1b-9401-94012cac16e9.PNG)
