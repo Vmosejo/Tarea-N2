@@ -62,6 +62,7 @@ caída de voltaje, se indica mediante los signos + y  -.
 ## 4. VIDEO
 Enlace video subido a youtube:
 
+https://www.youtube.com/watch?v=KyXE4dmF-G8
 
 ## 5. CONCLUSIONES
 * En la presente tarea logramos cumplir con los objetivos planteados  es analizar y reconocer la importancia de las leyes de los circuitos de los capitulos establecidos,se logro distinguir  la diferencia y lo fundamental que es un circuito simple y como influye la "Ley de Ohm".
