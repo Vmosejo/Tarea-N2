@@ -64,7 +64,8 @@ Enlace video subido a youtube:
 
 
 ## 5. CONCLUSIONES
-* En la presente tarea logramos cumplir con los objetivos planteados  es analizar y reconocer la importancia de las leyes de los circuitos de los capitulos establecidos,se logro reconocer la diferencia  y lo fundamental que es un circuito simple y como influye la "Ley de Ohm."
+* En la presente tarea logramos cumplir con los objetivos planteados  es analizar y reconocer la importancia de las leyes de los circuitos de los capitulos establecidos,se logro distinguir  la diferencia y lo fundamental que es un circuito simple y como influye la "Ley de Ohm".
+*  Como conclusión final se comprobó la "Ley de Ohm" donde se establece que la corriente a través de un resistor es directamente proporcional a la diferencia de voltaje en los extremos del resistor e inversamente proporcional a la resistencia del resistor,es una herramienta básica para trabajar con los circuitos eléctricos por lo que se puede utilizar para encontrar un valor desconocido en una serie de circuitos y así facilitar el proceso.  
 ## 6. BIBLIOGRAFÍA
 
 * Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
