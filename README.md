@@ -64,6 +64,7 @@ Enlace video subido a youtube:
 
 
 ## 5. CONCLUSIONES
-* 
+* En la presente tarea logramos cumplir con los objetivos planteados  es analizar y reconocer la importancia de las leyes de los circuitos de los capitulos establecidos,se logro reconocer la diferencia  y lo fundamental que es un circuito simple y como influye la "Ley de Ohm."
 ## 6. BIBLIOGRAFÍA
+
 * Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
